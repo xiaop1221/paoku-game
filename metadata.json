@@ -1,0 +1,6 @@
+{
+  "name": "极速跑酷",
+  "description": "具有精美3D视觉效果与流畅体验的跑酷游戏，内置虚拟按键及多关卡设计。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
